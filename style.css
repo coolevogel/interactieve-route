@@ -1,0 +1,25 @@
+body {
+    color: black
+}
+
+#container {
+    background-color:rgb(153, 189, 255);
+    width: 1200px;
+    height: 600px;
+    margin: 50px auto auto auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: inset 2px gray;
+}
+
+#MyInteraction {
+    padding: 10px;
+}
+
+#map {
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 70%;
+    height: auto;
+}
+
